@@ -127,6 +127,11 @@
       <artifactId>logback-core</artifactId>
       <version>${logback.core.version}</version>
     </dependency>
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>fastjson</artifactId>
+      <version>1.1.23</version>
+    </dependency>
     <!--slf4j的实现并整合，是log4j的改良版本-->
     <dependency>
       <groupId>ch.qos.logback</groupId>
